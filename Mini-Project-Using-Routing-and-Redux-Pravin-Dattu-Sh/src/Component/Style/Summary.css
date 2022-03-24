@@ -1,0 +1,24 @@
+.Summary .container-fluid{
+        width: 80%;
+        background-color: rgb(16, 24, 3);
+        padding-bottom: 15px;
+        margin-top: 15px;
+        padding-top: 15px;
+        border: 1px solid grey;
+        box-shadow: 0px 5px 5px 8px gray;
+        margin-bottom: 350px;
+}
+.Summary .table{
+        color: white;
+        font-size: 25px;
+       
+}
+.Summary .table .img{
+        border-radius: 10px;
+}
+.Summary .table tr {
+        color: white;
+        font-size: 25px;
+       
+}
+
